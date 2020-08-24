@@ -1,0 +1,6 @@
+# Project exclude paths
+
+/target/
+.idea
+java-oop-at.iml
+logs
